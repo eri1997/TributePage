@@ -1,0 +1,49 @@
+body {
+  background-color: rgb(238, 234, 234);
+}
+#header {
+  text-align: center;
+}
+h1 {
+  font-size: 50px;
+}
+#subtext {
+  font-size: 20px;
+}
+
+#img-div {
+  background-color: #e7e6dd;
+  color: black;
+  font-size: 25px;
+  padding: 20px;
+  text-align: center;
+}
+#img-caption {
+  padding: 10px;
+}
+
+img {
+  max-width: 100%;
+  display: block;
+  height: auto;
+  margin: 0 auto;
+}
+#tribute-info {
+  padding: 40px;
+  text-align: justify;
+  font-size: 20px;
+}
+#referenca {
+  font-family: serif;
+  font-size: 25px;
+  text-align: center;
+  padding: 20px;
+}
+
+#tribute-link {
+  color: royalblue;
+}
+
+#tribute-link:visited {
+  color: mediumslateblue;
+}
